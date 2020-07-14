@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="078c544c-a32f-43cf-a63f-4a9a80fcf74a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Flask-Weather-Dashboard-Final" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dfOV6GXsr7UYAHaSlpxoSKg2tV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Flask-Weather-Dashboard-Final/templates/home.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flask-Weather-Dashboard-Final" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="JavaScript Debug.home.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="078c544c-a32f-43cf-a63f-4a9a80fcf74a" name="Default Changelist" comment="" />
+      <created>1592812702057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592812702057</updated>
+      <workItem from="1592812706317" duration="7440000" />
+      <workItem from="1592898274029" duration="3000" />
+      <workItem from="1593158451163" duration="1577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="282" y="131" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592813309132">
+      <screen x="0" y="23" width="2560" height="1329" />
+    </state>
+    <state x="282" y="131" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.162.1920.1177/2560.23.1440.2537/0.23.2560.1329@0.23.2560.1329" timestamp="1592813309132" />
+    <state width="1617" height="139" key="GridCell.Tab.0.bottom" timestamp="1593163926622">
+      <screen x="0" y="23" width="2560" height="1331" />
+    </state>
+    <state width="1240" height="94" key="GridCell.Tab.0.bottom/-1920.162.1920.1177/2560.23.1440.2482/0.23.2560.1417@0.23.2560.1417" timestamp="1592864376228" />
+    <state width="1240" height="179" key="GridCell.Tab.0.bottom/-1920.162.1920.1177/2560.23.1440.2486/0.23.2560.1417@0.23.2560.1417" timestamp="1592817144242" />
+    <state width="1240" height="94" key="GridCell.Tab.0.bottom/-1920.162.1920.1177/2560.23.1440.2537/0.23.2560.1329@0.23.2560.1329" timestamp="1592822208179" />
+    <state width="1617" height="139" key="GridCell.Tab.0.bottom/-1920.162.1920.1177/2560.23.1440.2537/0.23.2560.1331@0.23.2560.1331" timestamp="1593163926622" />
+    <state width="1240" height="94" key="GridCell.Tab.0.bottom/-1920.162.1920.1177/2560.23.1440.2537/0.23.2560.1333@0.23.2560.1333" timestamp="1592821416610" />
+    <state width="1617" height="139" key="GridCell.Tab.0.center" timestamp="1593163926621">
+      <screen x="0" y="23" width="2560" height="1331" />
+    </state>
+    <state width="1240" height="94" key="GridCell.Tab.0.center/-1920.162.1920.1177/2560.23.1440.2482/0.23.2560.1417@0.23.2560.1417" timestamp="1592864376227" />
+    <state width="1240" height="179" key="GridCell.Tab.0.center/-1920.162.1920.1177/2560.23.1440.2486/0.23.2560.1417@0.23.2560.1417" timestamp="1592817144242" />
+    <state width="1240" height="94" key="GridCell.Tab.0.center/-1920.162.1920.1177/2560.23.1440.2537/0.23.2560.1329@0.23.2560.1329" timestamp="1592822208178" />
+    <state width="1617" height="139" key="GridCell.Tab.0.center/-1920.162.1920.1177/2560.23.1440.2537/0.23.2560.1331@0.23.2560.1331" timestamp="1593163926621" />
+    <state width="1240" height="94" key="GridCell.Tab.0.center/-1920.162.1920.1177/2560.23.1440.2537/0.23.2560.1333@0.23.2560.1333" timestamp="1592821416610" />
+    <state width="1617" height="139" key="GridCell.Tab.0.left" timestamp="1593163926620">
+      <screen x="0" y="23" width="2560" height="1331" />
+    </state>
+    <state width="1240" height="94" key="GridCell.Tab.0.left/-1920.162.1920.1177/2560.23.1440.2482/0.23.2560.1417@0.23.2560.1417" timestamp="1592864376227" />
+    <state width="1240" height="179" key="GridCell.Tab.0.left/-1920.162.1920.1177/2560.23.1440.2486/0.23.2560.1417@0.23.2560.1417" timestamp="1592817144242" />
+    <state width="1240" height="94" key="GridCell.Tab.0.left/-1920.162.1920.1177/2560.23.1440.2537/0.23.2560.1329@0.23.2560.1329" timestamp="1592822208178" />
+    <state width="1617" height="139" key="GridCell.Tab.0.left/-1920.162.1920.1177/2560.23.1440.2537/0.23.2560.1331@0.23.2560.1331" timestamp="1593163926620" />
+    <state width="1240" height="94" key="GridCell.Tab.0.left/-1920.162.1920.1177/2560.23.1440.2537/0.23.2560.1333@0.23.2560.1333" timestamp="1592821416609" />
+    <state width="1617" height="139" key="GridCell.Tab.0.right" timestamp="1593163926622">
+      <screen x="0" y="23" width="2560" height="1331" />
+    </state>
+    <state width="1240" height="94" key="GridCell.Tab.0.right/-1920.162.1920.1177/2560.23.1440.2482/0.23.2560.1417@0.23.2560.1417" timestamp="1592864376227" />
+    <state width="1240" height="179" key="GridCell.Tab.0.right/-1920.162.1920.1177/2560.23.1440.2486/0.23.2560.1417@0.23.2560.1417" timestamp="1592817144242" />
+    <state width="1240" height="94" key="GridCell.Tab.0.right/-1920.162.1920.1177/2560.23.1440.2537/0.23.2560.1329@0.23.2560.1329" timestamp="1592822208178" />
+    <state width="1617" height="139" key="GridCell.Tab.0.right/-1920.162.1920.1177/2560.23.1440.2537/0.23.2560.1331@0.23.2560.1331" timestamp="1593163926622" />
+    <state width="1240" height="94" key="GridCell.Tab.0.right/-1920.162.1920.1177/2560.23.1440.2537/0.23.2560.1333@0.23.2560.1333" timestamp="1592821416610" />
+    <state x="116" y="83" key="SettingsEditor" timestamp="1592821406139">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="319" y="108" key="SettingsEditor/-1920.162.1920.1177/2560.23.1440.2537/0.23.2560.1329@0.23.2560.1329" timestamp="1592813360190" />
+    <state x="116" y="83" key="SettingsEditor/-1920.162.1920.1177/2560.23.1440.2537/0.23.2560.1333@0.23.2560.1333" timestamp="1592821406139" />
+    <state x="318" y="217" key="com.intellij.ide.util.TipDialog" timestamp="1592898275542">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="318" y="217" key="com.intellij.ide.util.TipDialog/-1920.162.1920.1177/2560.23.1440.2482/0.23.2560.1417@0.23.2560.1417" timestamp="1592898275542" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Flask_Weather_Dashboard_Final$app.coverage" NAME="app Coverage Results" MODIFIED="1593163373660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

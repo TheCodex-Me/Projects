@@ -1,7 +1,7 @@
 # TheCodex Project Code
 
 
-👋 HEY YOU! Every week I'm sharing a new project tutorial to help you become a better Python developer to help you level up your skills & career! 
+👋  HEY YOU! Every week I'm sharing a new project tutorial to help you become a better Python developer to help you level up your skills & career! 
 
 For full project tutorials:
 

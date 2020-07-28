@@ -10,5 +10,7 @@ For full project tutorials:
 - 🎙 [Build a Speech Recognition App With Python & Flask](https://blog.thecodex.me/speech-recognition-with-python-and-flask/)
 - 🦠 Visualizing COVID-19 with Python & Big Data (Coming 8/4)
 
+Join over 600,000 python developers in learning how to code: (https://thecodex.me/)
+
 
 

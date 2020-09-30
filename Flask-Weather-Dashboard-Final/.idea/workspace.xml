@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="078c544c-a32f-43cf-a63f-4a9a80fcf74a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../COVID-19-Dashboard/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cryptocurrency-Visualization-Final/.ipynb_checkpoints/BTC-Visualizer-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cryptocurrency-Visualization-Final/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cryptocurrency-Visualization-Final/BCHARTS-BITSTAMPUSD.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cryptocurrency-Visualization-Final/BCHARTS-COINBASEUSD.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cryptocurrency-Visualization-Final/BCHARTS-ITBITUSD.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cryptocurrency-Visualization-Final/BCHARTS-KRAKENUSD.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cryptocurrency-Visualization-Final/BTC-Visualizer.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cryptocurrency-Visualization-Final/Untitled.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../US-President-Polling-Dashboard/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../US-President-Polling-Dashboard/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../US-President-Polling-Dashboard/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../US-President-Polling-Dashboard/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../US-President-Polling-Dashboard/static/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../US-President-Polling-Dashboard/static/styles/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../US-President-Polling-Dashboard/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../US-President-Polling-Dashboard/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +47,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -108,6 +120,8 @@
       <workItem from="1594836450550" duration="185000" />
       <workItem from="1595309438498" duration="3000" />
       <workItem from="1596229321884" duration="399000" />
+      <workItem from="1600552843517" duration="213000" />
+      <workItem from="1600727038314" duration="11000" />
     </task>
     <servers />
   </component>

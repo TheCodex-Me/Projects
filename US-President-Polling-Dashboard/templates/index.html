@@ -2,9 +2,37 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/index.css')}}">
 </head>
 <body>
-$END$
+<h1>Presidential Candidate Polling Dashboard</h1>
+
+<table>
+    <thead>
+    <tr>
+        <th>Date</th>
+        <th>Pollster</th>
+        <th>Sample</th>
+        <th>Result</th>
+        <th>Net</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for row in poll_data %}
+    <tr>
+        <td>{{row.date}}</td>
+        <td>{{row.pollster_name}}</td>
+        <td>{{row.sample_size}}</td>
+        <td>{{row.first_person}}: {{row.first_value}} {{row.second_person}}: {{row.second_value}}</td>
+        <td>{{row.leader}} {{row.net}}</td>
+    </tr>
+    {% endfor %}
+
+    </tbody>
+
+</table>
+
 </body>
 </html>

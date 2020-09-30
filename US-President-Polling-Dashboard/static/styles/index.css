@@ -1,0 +1,26 @@
+body {
+    font-family: "Lato", sans-serif;
+}
+
+table {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    border: 1px solid #cccccc;
+}
+
+table tr {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    padding: 15px;
+}
+
+table th {
+    padding: 10px;
+    text-align: center;
+}
+
+table td {
+    padding: 20px;
+    text-align: center;
+}
